@@ -1,0 +1,980 @@
+keyword=restaurant, sentence=I work at a grocery store as a stocker.  I love meat!  What is your favorite meat?
+keyword=movie, sentence=I highly recommend it. It's one of my favorite books of all time. It was published in 1937.
+keyword=song, sentence=Not really, I listen to a lot of different types of music though. What do you do for a living?
+keyword=restaurant, sentence=Breakfast is the most important meal of the day. It's the first meal you eat in the morning.
+keyword=song, sentence=I love playing video games as well. I'm a big fan of Fortnite.
+keyword=movie, sentence=I'm a big fan of first-person shooters. What's your favorite genre?
+keyword=song, sentence=I hope so too. It's been a long time since I've had a good friend.
+keyword=attraction, sentence=I agree with you. I love going to the park with my family and watching the kids play.
+keyword=hotel, sentence=Goodbye! Have a nice day! I'll be back in time to chat with you!
+keyword=movie, sentence=No, I didn't want to make a scene out of it. I was just so creeped out.
+keyword=attraction, sentence=We went to Puerto Rico. I love the beaches there.
+keyword=song, sentence=She's a country music singer. She's very talented and has a great voice.
+keyword=song, sentence=I know, I just don't know if it's the right thing to do. I love her so much.
+keyword=restaurant, sentence=I do! I like to make a martini with vodka and lime juice.
+keyword=restaurant, sentence=They are also the oldest franchise in the NFL. They were founded in 1961.
+keyword=song, sentence=Oh wow, I didn't know that. I'll have to check it out one day.
+keyword=song, sentence=Yes, it would've been. He's been around for so long too, he was born in 1943.
+keyword=song, sentence=Thank you. It's been a long time since I've seen him, but I know he's in a better place.
+keyword=song, sentence=I don't have any pets at the moment. I used to have a dog when I was younger.
+keyword=hotel, sentence=I think you should talk to your manager and let them know how you feel about the situation.
+keyword=song, sentence=It is. It is the capital of Austria and the most populous city in the country.
+keyword=song, sentence=No, he's the only one I've ever had. He was a rescue dog.
+keyword=song, sentence=Yeah, I guess so. I just wish I could find something else to do with my time.
+keyword=song, sentence=Thank you, I hope so too. I just don't know if it's worth the risk.
+keyword=restaurant, sentence=Just for fun. I don't have a green thumb at all, so it was a bit of a challenge.
+keyword=hotel, sentence=I'll have to check that out.  I'm always looking for new things to watch.
+keyword=movie, sentence=My favorite author is Stephen King.  Have you read any of his books?
+keyword=song, sentence=I hope so, I want to make sure she knows that I'm there for her when she needs it.
+keyword=song, sentence=I would have to say my favorite song of theirs is "Black Holes and Revelations"
+keyword=song, sentence=I don't have any pets at the moment, but I would like to get a cat one day.
+keyword=song, sentence=I really like action and adventure games. I also like racing games like F1 and GTA.
+keyword=song, sentence=Yeah, it was really scary. I am glad I didn't have to call the police.
+keyword=attraction, sentence=I like going to the movies and playing video games. What do you like to do for fun?
+keyword=restaurant, sentence=Mostly personal use, but I do sell a few things on etsy as well.
+keyword=song, sentence=I'm glad you were able to overcome your fears. I hope I can overcome my fear one day.
+keyword=restaurant, sentence=I love cooking as well. I like to bake as well, but I'm not very good at it.
+keyword=song, sentence=Yes, I'm studying to be a nurse. It's a very rewarding profession.
+keyword=song, sentence=I spend a lot of time with my family as well. I love spending time with all of them.
+keyword=restaurant, sentence=I'm getting a degree in business administration. I love to cook, so I figured it would be a good fit.
+keyword=song, sentence=Thank you so much for your kind words. I will try my best to move on from it.
+keyword=hotel, sentence=I have a lot of things going on in my life right now, but I am trying to stay positive.
+keyword=song, sentence=They really are.  I wish I could have one, but my apartment doesn't allow them.
+keyword=restaurant, sentence=I like anything with a lot of spices and herbs.  Do you have a favorite?
+keyword=song, sentence=I have been living here for about a month now. I do like it a lot so far.
+keyword=restaurant, sentence=I love to cook as well. I love baking sweets and cakes. What is your favorite thing to bake?
+keyword=song, sentence=I don't have a lot of free time. I spend most of my time studying.
+keyword=attraction, sentence=I love the outdoors as well. I like hiking, camping, and fishing.
+keyword=song, sentence=It really is. I am so thankful that he is there for me when I need him.
+keyword=song, sentence=Thank you, me too. I don't know what I'd have done if it had gotten out.
+keyword=song, sentence=I like the color yellow because it is between violet and green on the light spectrum.
+keyword=movie, sentence=I haven't, but I've heard a lot about him. What's your favorite book of his?
+keyword=movie, sentence=No, I didn't want to make a scene out of it. I just kept driving.
+keyword=restaurant, sentence=I like kale too. It's a leaf vegetable grown for its edible leaves.
+keyword=song, sentence=I'm a big fan of World of Warcraft. I've been playing it since it came out in 2009.
+keyword=song, sentence=I don't have a specific favorite.  I like them all.  What do you like to read?
+keyword=song, sentence=I think you're right. I think I'll do that. Thank you for the advice.
+keyword=restaurant, sentence=That's interesting, I didn't know that. Pizza is one of the most popular foods in the world.
+keyword=attraction, sentence=That sounds like a lot of fun. I like going to the lake and fishing.
+keyword=song, sentence=I don't have a favorite game. I just like to play them. What about you?
+keyword=movie, sentence=I'm a big fan of action and adventure games. What's your favorite video game?
+keyword=restaurant, sentence=That's a good point. I don't think I've ever heard of any food poisoning.
+keyword=song, sentence=Wow, I didn't know that. It's the third-most populous city in the United States, after New York City and Los Angeles.
+keyword=song, sentence=I don't know, but I would love to have one as a pet.  They are so cute.
+keyword=song, sentence=I listen to a little bit of everything, but my favorite band is Pink Floyd.
+keyword=movie, sentence=Exactly, it's not that hard to pick up after yourself. I just don't get it.
+keyword=movie, sentence=I haven't been to the theater in a while, but I remember seeing it when it first came out.
+keyword=movie, sentence=I am not good at writing either. I am more of a reader than a writer.
+keyword=song, sentence=Yes, I have two older brothers. We used to play video games all the time when I was a kid.
+keyword=hotel, sentence=Thank you, I hope so too. I don't want to be in debt for the rest of my life.
+keyword=restaurant, sentence=We're going to a Mexican restaurant. I love Mexican food! What about you?
+keyword=song, sentence=That's too bad. I live in an apartment too, so I can't have any pets.
+keyword=hotel, sentence=I'm glad to hear that. I hope you have a great rest of your evening.
+keyword=song, sentence=I love both of those bands as well! I love how they incorporate so many different genres into their music.
+keyword=attraction, sentence=No, I don't. I wish I did though. I would love to have a dog. What kind of dog do you have?
+keyword=hotel, sentence=I work in customer service. It's not the most exciting job in the world, but it pays the bills.
+keyword=transportation, sentence=It was, but I got through it. I have a new car now, so it's all good.
+keyword=song, sentence=Oh, I see. Well, I hope you can get one someday. They're great companions.
+keyword=song, sentence=I like Kanye West. He is an American rapper, singer, and songwriter.
+keyword=attraction, sentence=No, but I wish I could. I live in a rural area so it's hard to find a beach nearby.
+keyword=song, sentence=I don't play any instruments, but I wish I did. I've always wanted to learn.
+keyword=restaurant, sentence=I know!  The population is estimated to be over 800,000 people!
+keyword=movie, sentence=You're welcome. I wish you the best of luck in your future endeavors.
+keyword=restaurant, sentence=I don't really have a favorite food, but chocolate is definitely one of my favorites.
+keyword=restaurant, sentence=That sounds like a lot of fun. I've never been fishing, but I've always wanted to.
+keyword=transportation, sentence=I'm a car salesman, so I don't have much time for vegetarianism.
+keyword=song, sentence=Thank you! I hope so too. It's been on my bucket list for a while now.
+keyword=song, sentence=I've worn them since I was a kid, so I'm used to wearing them. I just don't think I can ever get over them.
+keyword=restaurant, sentence=That sounds yummy! I'm eating leftover spaghetti and meatballs.
+keyword=song, sentence=I hope he does too, he seems to be a good player. He was drafted by the Dallas Cowboys in 2009.
+keyword=song, sentence=I have a rose on my ankle. It's my favorite flower.
+keyword=movie, sentence=Historical Romance is one of my favorites. I like the romance genre as well.
+keyword=song, sentence=I play a lot of Call of Duty. It's my favorite game of all time.
+keyword=song, sentence=They are a pop punk band.  They are really good.  You should check them out.
+keyword=song, sentence=He is an American singer, songwriter, actor, and record producer.
+keyword=restaurant, sentence=I'm glad you were able to get the help you needed. Braces can be expensive.
+keyword=movie, sentence=I like sci-fi as well, but my favorite is fantasy. Do you have any favorite authors?
+keyword=song, sentence=Congratulations! I wish you the best of luck! I hope you have a wonderful time!
+keyword=song, sentence=I have, but I'm not very good at it. I'm more of a writer than a singer.
+keyword=song, sentence=They are a pop punk band. They were formed in 1985 in Los Angeles.
+keyword=movie, sentence=Yes it is. It was created by Stephen Hillenburg for Nickelodeon.
+keyword=movie, sentence=I did enjoy it, but it was very tiring.  I was exhausted by the end of the day.
+keyword=song, sentence=I do, but I don't get to see them as much as I'd like.
+keyword=movie, sentence=I don't remember the name, but it was a horror movie. I love horror movies.
+keyword=song, sentence=I'm listening to punk too! I love it. I'm just hanging out with my friends.
+keyword=hotel, sentence=That's cool.  I used to be an actor, but now I'm a stay at home mom.
+keyword=transportation, sentence=They have been bred for thousands of years for various purposes, including warfare, transportation, and sport.
+keyword=hotel, sentence=I am a teacher as well.  I love it!  What grade do you teach?
+keyword=restaurant, sentence=I enjoy fishing as well, but I don't get to do it as much as I'd like.
+keyword=song, sentence=Yes, she is. She is one of the most influential musicians of all time.
+keyword=movie, sentence=I think I'd like to write fiction. I think it would be a lot of fun.
+keyword=hotel, sentence=Thank you! I will try to stay safe as much as I can. I am glad you are okay as well!
+keyword=song, sentence=I'm taking piano lessons. I've been playing since I was 5 years old.
+keyword=attraction, sentence=It is!  We are going with our family.  I am a professional translator, so we get to travel a lot.
+keyword=transportation, sentence=I have a Belgian Shepherd. I ride for fun, but I'm not very good at it.
+keyword=restaurant, sentence=I hike in the Appalachian National Scenic Trail. What about you?
+keyword=attraction, sentence=I love adventure as well.  I love going to the movies.  Do you have a favorite movie?
+keyword=restaurant, sentence=I love to cook Italian dishes, especially pasta dishes. What about you?
+keyword=song, sentence=I don't have a specific favorite, but I do have a weakness for first person shooters.
+keyword=song, sentence=That's good to hear. It's always good to have a job that you enjoy.
+keyword=song, sentence=I don't play many video games anymore. I used to play a lot when I was younger, though.
+keyword=movie, sentence=My favorite movie of all time is The Godfather Part II.  Have you seen it?
+keyword=movie, sentence=Thank you, I appreciate it. I'm sure things will work out in the end.
+keyword=song, sentence=I don't have a Playstation but I have a Nintendo Switch. It's a handheld console.
+keyword=movie, sentence=I really like the Berenstain Bears books. It's a series of children's books.
+keyword=song, sentence=I'm studying accounting. I want to be a financial analyst one day.
+keyword=song, sentence=I have heard that it is the oldest and most widely practiced religion in the world.
+keyword=song, sentence=I'd like a Labrador Retriever or a German Shepherd.
+keyword=restaurant, sentence=I love steak as well.  I like mine medium rare.  What about you?
+keyword=song, sentence=Thank you for the kind words. I will try not to make the same mistake again.
+keyword=song, sentence=I like to play video games and go to the movies. I also like to read. What about you?
+keyword=attraction, sentence=I am moving to Florida. I have never been to the beach before so I am excited.
+keyword=movie, sentence=I don't have much free time. I spend most of my time drawing and watching movies.
+keyword=song, sentence=Yes, it's a first person shooter video game developed and published by Activision.
+keyword=song, sentence=I teach 5th grade. It is a lot of work, but it is rewarding.
+keyword=hotel, sentence=I bet it does. I'm a stay at home mom so I don't have to work.
+keyword=movie, sentence=I haven't seen it, but I've heard a lot about it. Is it good?
+keyword=movie, sentence=I hid under my covers until my mom came home. She was so mad at me.
+keyword=song, sentence=I like to play video games and go to the movies. What about you? Do you have any hobbies?
+keyword=restaurant, sentence=I don't think I could be a vegetarian. I love my steak too much.
+keyword=song, sentence=I have, but he doesn't seem to care. I think I'm going to have to break up with him.
+keyword=movie, sentence=I know what you mean. I'm not a fan of zombie shows at all.
+keyword=movie, sentence=My favorite movie is The Godfather Part II.  Have you seen it?
+keyword=restaurant, sentence=I don't have much time for hobbies these days, but I used to love cheetos.
+keyword=restaurant, sentence=They are great dogs. They were bred to retrieve shot waterfowl.
+keyword=song, sentence=Thank you! I'm looking forward to it. I've never been out of the country before.
+keyword=movie, sentence=I didn't know that! That's pretty cool. I love Toy story, it's one of my favorite movies. Lightning McQueen is my favorite character.
+keyword=movie, sentence=It took me a while to get everything in order, but I got there in the end.
+keyword=song, sentence=I like hiking in the Appalachian National Scenic Trail.
+keyword=song, sentence=Yes, that's right. It's also used in the United Kingdom, Ireland, Australia, New Zealand, and the Republic of Ireland.
+keyword=restaurant, sentence=That's true. I like it because it's so easy to make and it tastes so good.
+keyword=restaurant, sentence=I love a good hamburger and fries.  What is your favorite tailgate food?
+keyword=song, sentence=I sure hope so. I've been trying to get a new job for a while now.
+keyword=song, sentence=I like all kinds of music, but my favorite band is the Beatles. What about you?
+keyword=song, sentence=I had a labrador retriever. He was the best dog I've ever had.
+keyword=restaurant, sentence=I like to bake it in the oven, but I also like it in a sauce pan on the stove.
+keyword=movie, sentence=I love action and adventure movies. I also like comedies. What is your favorite movie?
+keyword=transportation, sentence=I like to play video games and hang out with my friends. What kind of car was it?
+keyword=song, sentence=I'm sure you guys will have a great time. I wish you guys all the best!
+keyword=transportation, sentence=That's cool. I don't have a lot of time to watch stuff on Netflix. I spend most of my time building model airplanes.
+keyword=song, sentence=I'll have to give it a try. Maybe I'll get lucky and meet someone special.
+keyword=hotel, sentence=No, I don't have any kids, but I would like to someday. How many do you have?
+keyword=song, sentence=It's a pop punk band.  They're pretty good.  Do you have a favorite band?
+keyword=attraction, sentence=Outdoor activities are fun.  I like to hike and camp a lot.
+keyword=movie, sentence=Yes, there are so many different types.  In some countries, the role of a lawyer varies considerably from country to country.
+keyword=song, sentence=I like first person shooters and racing games. What do you do for a living?
+keyword=movie, sentence=No, but I filmed a scene of it and it was filmed in my backyard.
+keyword=attraction, sentence=No, I haven't. I would like to go camping at the Grand Canyon someday though.
+keyword=movie, sentence=I like Stephen King a lot. He has written so many great books. Have you read any of his?
+keyword=song, sentence=I like to hang out with friends and play video games. What about you? Do you have any hobbies?
+keyword=restaurant, sentence=I love fishing.  It's one of my favorite things to do in my spare time.
+keyword=hotel, sentence=I hope so too. I don't want to be a stay at home mom like my mom.
+keyword=song, sentence=I spend a lot of time with my family. We are very close. What about you?
+keyword=restaurant, sentence=Yes, it has been around for a long time. The earliest mention of it was in the 10th century.
+keyword=song, sentence=Wow, that's a lot of books. He was born in 1948, so he's been around a while.
+keyword=movie, sentence=I don't play many video games, but I do like to read. I love fantasy novels.
+keyword=song, sentence=I listen to a little bit of everything, but my favorite genre is hip hop. How about you?
+keyword=song, sentence=I'm not sure what I want to major in yet, but I know I'm going to love it!
+keyword=song, sentence=Yes, it is. I am so glad it wasn't anything serious. I would have been devastated.
+keyword=song, sentence=I play a little bit of every genre. I'm a big fan of first person shooters.
+keyword=restaurant, sentence=I've been doing it for a few years now. It's a great way to make some extra money.
+keyword=attraction, sentence=I love going to the dog park and playing with my dog. I also like to take them for walks.
+keyword=transportation, sentence=I am not sure yet. I think I would like a medium sized dog that is easy to take care of.
+keyword=attraction, sentence=I love the outdoors. I like hiking, camping, and fishing.
+keyword=movie, sentence=Yes, it is. It's also one of my favorites. I love the way it looks on canvas.
+keyword=song, sentence=I know what you mean. It's hard to find the time to do things you enjoy.
+keyword=restaurant, sentence=That's right. They are also used for hunting, herding, pulling loads, and assisting police and military.
+keyword=attraction, sentence=Video games are fun, but I'm more of an outdoors person. I like to hike and camp.
+keyword=song, sentence=Yes, they are. They are also the oldest team in the Eastern Conference.
+keyword=song, sentence=Yes, I love creed. They are an American rock band formed in Los Angeles in 1983.
+keyword=song, sentence=I would have been too. I hope you don't have to deal with that again.
+keyword=song, sentence=Yes, I went to the ER and they gave me some antibiotics.
+keyword=movie, sentence=Thank you, I am glad I did too. It was hard at first, but it was worth it in the end.
+keyword=attraction, sentence=Thank you! I'm sure I'll have a good time. It's been a while since I've been to the beach.
+keyword=attraction, sentence=I enjoy fishing as well, but I don't get to do it as much as I'd like.
+keyword=song, sentence=I have played it since it first came out in 2007. It is a great game.
+keyword=song, sentence=I know it's hard, but you have to do what's best for you and your family.
+keyword=attraction, sentence=Video games are fun, but I'm more of an outdoors person. I like to hike and camp.
+keyword=restaurant, sentence=Yes it would. I would love to be bilingual, but I don't know any other languages.
+keyword=movie, sentence=I'm a big fan of first person shooters. What's your favorite genre of games?
+keyword=song, sentence=I like to play video games and watch movies. I also like to read. What about you?
+keyword=restaurant, sentence=It was a chocolate cake with chocolate frosting. I was so happy to get it.
+keyword=song, sentence=That's great.  I'm sure he will do great things in life.  You sound like a great parent.
+keyword=song, sentence=His name is Roscoe. He's a rescue dog. What do you do for a living?
+keyword=movie, sentence=They are, but it's worth it in the end.  Labradors are known for their intelligence and obedience.
+keyword=song, sentence=I am so sorry to hear that. I know how hard it is to lose a pet.
+keyword=restaurant, sentence=It has been good. I just got back from work at the diner I work at.
+keyword=restaurant, sentence=I don't have a kayak, but I would like to try it sometime.
+keyword=movie, sentence=I have been catching up on Game of Thrones. It is my favorite show.
+keyword=song, sentence=I work in a warehouse. It's pretty boring, but it pays the bills.
+keyword=attraction, sentence=I love going to the lake and fishing. I also like to play video games.
+keyword=song, sentence=It really is. I can't believe it's been that long since he first appeared in a comic book.
+keyword=song, sentence=Thank you. It was a long time ago, but I still remember it fondly.
+keyword=song, sentence=Thank you for your kind words. It's nice to know there are still good people out there.
+keyword=movie, sentence=I hope so, I've been working on it for a while now. I think it will be worth it in the end.
+keyword=hotel, sentence=I usually have eggs, bacon, sausage, and toast. What about you?
+keyword=movie, sentence=I don't really have a favorite show, but I do like to binge watch shows like Game of Thrones.
+keyword=attraction, sentence=Yes, I do. I get to go to a lot of different countries. What's your favorite place you've been?
+keyword=song, sentence=It really does. I wish I could go back in time and be a kid again.
+keyword=restaurant, sentence=I've never had a german shepard, but I've always wanted one. They're one of the most popular breeds in the US.
+keyword=restaurant, sentence=I am, thank you. It was a long time ago, but it still stings.
+keyword=movie, sentence=I'm a big fan of action and adventure games. What kind of movies do you like?
+keyword=song, sentence=I love squats, but I'm not very good at it. I'm more of a runner.
+keyword=hotel, sentence=I don't really have time for hobbies. I'm a stay at home mom, so I spend a lot of time with my kids.
+keyword=song, sentence=Yes, and it's still very popular. It's the most played board game worldwide.
+keyword=song, sentence=What kind of music do you play? I work in an office. It's boring but pays the bills.
+keyword=song, sentence=No, I don't. I would love to have a dog, but my apartment doesn't allow them.
+keyword=song, sentence=I used to play a lot of video games when I was younger, but now I don't have much time for them.
+keyword=restaurant, sentence=I like to bake as well. I'm not very good at it, but it's a lot of fun.
+keyword=restaurant, sentence=Whiskey has been around for a long time. It was first made in Scotland in the 10th century.
+keyword=restaurant, sentence=I've been vegetarian for about 5 years now.  It was hard at first, but I got used to it.
+keyword=attraction, sentence=Thank you! I hope so too. I've never been to an amusement park before.
+keyword=transportation, sentence=It does seem like a fun place to go. I've heard it's the most visited tourist destination in the United States.
+keyword=song, sentence=I know, I just don't have the money for it right now. Maybe one day.
+keyword=song, sentence=It's also the most densely populated metropolitan area in the world.
+keyword=attraction, sentence=I did not know that, but I do know that it is the highest mountain in Africa.
+keyword=song, sentence=I like all kinds of music.  My favorite band is Led Zeppelin.  What about you?
+keyword=restaurant, sentence=We have been together for a few years now.  We met at a Mexican restaurant.
+keyword=song, sentence=Thank you, I hope so too. It's been a long time since I've been in a relationship.
+keyword=song, sentence=That's a great attitude to have. I'm sure your kids will be very happy to have you as a parent.
+keyword=attraction, sentence=Yes, I went to the park. It was nice to get out and get some fresh air.
+keyword=attraction, sentence=I love action movies and comedies. Do you have a favorite movie that you watch often?
+keyword=song, sentence=I'm a big fan of Stephen King. He's my favorite author. What about you?
+keyword=transportation, sentence=Yeah, it's a little scary to think about, but it's safer than driving a car.
+keyword=movie, sentence=I was a cashier at a grocery store. It was a long time ago, but I still remember it fondly.
+keyword=hotel, sentence=Thank you so much for your kind words. I really appreciate it. I will try to stay positive.
+keyword=attraction, sentence=Gardening is a hobby of mine. I love growing and cultivating plants.
+keyword=hotel, sentence=Yes, they do.  I think it's because they are so young.  They don't know what they are talking about yet.
+keyword=song, sentence=His name is Roscoe. He is a rescue dog. He was a stray.
+keyword=restaurant, sentence=I love fishing! It's a great way to relax and enjoy the outdoors.
+keyword=attraction, sentence=I like to spend time outdoors, especially in the mountains. How about you?
+keyword=hotel, sentence=Thank you, I appreciate that. I hope I can find something soon, too. I don't want to be unemployed for too long.
+keyword=attraction, sentence=I would love to see it someday. I have heard it is the most visited national park in the world.
+keyword=transportation, sentence=It is a great place to visit. It is the world's most visited tourist destination.
+keyword=movie, sentence=Yes, she is. Her debut album "Speak Now" debuted at number one in the U.S.
+keyword=movie, sentence=I did, but it was worth it in the end. I felt so relieved.
+keyword=transportation, sentence=I would like to train a lizard. I think it would be cool to have one as a pet.
+keyword=song, sentence=We listened to some music, drank a few beers, and played some games.
+keyword=song, sentence=I don't have a specific favorite band, but I do know that Creed is an American rock band formed in 1994.
+keyword=transportation, sentence=It took me about a week, but it was worth it in the end. It was a great experience.
+keyword=song, sentence=I like a lot of different kinds of music, but my favorite genre is jazz.
+keyword=restaurant, sentence=I don't really have a lot of free time, so I like to spend time with my family.
+keyword=transportation, sentence=I know, it's crazy how fast time flies. I remember when it first came out.
+keyword=restaurant, sentence=I love to cook Italian and Mexican food. I also love to bake.
+keyword=song, sentence=I like country music, but I'm not very good at it. I'm more of a dance person.
+keyword=song, sentence=I don't know much about country music, but I do know that it originated in the southern United States.
+keyword=restaurant, sentence=I love a good rib-eye steak, it's so tender and juicy.
+keyword=transportation, sentence=I know what you mean. I am in the same boat. I just want to be able to provide for my family.
+keyword=movie, sentence=I don't really have a favorite movie, but I do like going to see musicals.
+keyword=restaurant, sentence=She went to a new school and started a new life. She is a very nice person.
+keyword=attraction, sentence=I don't have a dog, but I do like to go to the park. What kind of dog do you have?
+keyword=restaurant, sentence=I love fettuccine alfredo. It's so easy to make.
+keyword=movie, sentence=I didn't realize that either, but it makes sense that it would be based on a novel by the same name.
+keyword=song, sentence=I sure hope so. I have been working really hard to get to where I want to be.
+keyword=movie, sentence=It's about a man who is possessed by a serial killer. It's really good.
+keyword=movie, sentence=I'm a big fan of action and adventure games. What kind of movies do you like?
+keyword=song, sentence=I would love to play blackjack. It's the most popular game in the world.
+keyword=song, sentence=Oh wow, that's pretty cool. I didn't know they were based out of Washington.
+keyword=song, sentence=It is. I have to get up so early to go to the opera every morning.
+keyword=restaurant, sentence=That makes sense. I don't think I could do it though. I love meat too much.
+keyword=movie, sentence=I used to watch that show all the time when it was on NBC back in the day.
+keyword=attraction, sentence=Yes, especially when you have to go on a vacation to Italy. I went last summer.
+keyword=restaurant, sentence=I love to cook, but I'm not very good at it. I'm more of a baker.
+keyword=attraction, sentence=Yes, it is. It is also one of the most visited national parks in the United States.
+keyword=attraction, sentence=I work at a museum that specializes in artifacts from the past.
+keyword=transportation, sentence=No, it was a used car so I didn't have to worry about that. I just had to replace a few things.
+keyword=song, sentence=Wow, that's a long time ago. I can't believe it's been that long since it was released.
+keyword=song, sentence=Yes, it is a shame. But at least we have the internet to help us learn new languages.
+keyword=song, sentence=I do too, but I don't have a lot of money to spend on a pool.
+keyword=song, sentence=I don't have any pets at the moment, but I used to have a dog when I was a kid.
+keyword=transportation, sentence=I like dogs, too. I like how they can be trained to do so many different things.
+keyword=song, sentence=Wow, that's impressive. I don't listen to much Justin Bieber, but I do like his music.
+keyword=song, sentence=I don't play any instruments, but I've always wanted to learn how to play an instrument.
+keyword=song, sentence=Donna Karen is her name. She is my favorite singer and songwriter.
+keyword=song, sentence=Thank you, I appreciate that. I wish you the best of luck in your future endeavors.
+keyword=movie, sentence=I'm a big fan of first person shooters. What's your favorite genre of games?
+keyword=movie, sentence=I hope so, too. I don't want to have to call the police if he doesn't show up.
+keyword=transportation, sentence=Yes, I made it all the way to my destination.  It was worth it.
+keyword=song, sentence=I like all kinds of music, but my favorite is jazz. What about you?
+keyword=attraction, sentence=I'm not sure, but I do know that they are native to Asia and Africa.
+keyword=restaurant, sentence=Yeah, I know what you mean. The dish was invented in Naples, Italy.
+keyword=song, sentence=That's great. I have a brother, but we don't get to see each other very often.
+keyword=song, sentence=They are a pop punk band. They are from New York City. They have been around for a while.
+keyword=song, sentence=No, I don't.  I'm an only child.  What do you like to do for fun?
+keyword=restaurant, sentence=That's good to hear. Maybe I'll give it a shot next time I go to the casino.
+keyword=movie, sentence=I'm a big fan of Dungeons and Dragons, which is a role-playing game.
+keyword=restaurant, sentence=I don't eat meat, but I do like vegetables.  I also like to cook.
+keyword=song, sentence=He is an American singer, songwriter, record producer, and dancer.
+keyword=hotel, sentence=Thank you, that means a lot to me. I'm trying to stay positive, but it's hard.
+keyword=song, sentence=Yes, that is correct. It lies between green and blue on the visible spectrum.
+keyword=song, sentence=It is! It is also the color between violet and green on the spectrum of visible light.
+keyword=attraction, sentence=Video games are fun. I like to go to the park and play with my dog.
+keyword=restaurant, sentence=Yes, I love them.  I just wish I could eat them all the time.
+keyword=song, sentence=I really like "Baby One More Time" and "Teenage Dream". Do you like any of her other songs?
+keyword=movie, sentence=I love going to the movies.  It's one of my favorite things to do on the weekends.
+keyword=restaurant, sentence=I don't have any specific suggestions, but if you're looking for something to help you lose weight, you might want to look into a ketogenic diet. It's a high-fat, adequate-protein, low-carbohydrate diet
+keyword=song, sentence=I've never played it, but I've heard a lot about it. Is it fun?
+keyword=hotel, sentence=It is, but I enjoy it. I'm on a dance team, so it helps me stay in shape.
+keyword=movie, sentence=I'm a big fan of first person shooters. What's your favorite genre of games?
+keyword=song, sentence=Thank you! My favorite band is Led Zeppelin. Do you like them?
+keyword=restaurant, sentence=I used to have a pig, but I gave it away because I didn't like the way it was treated.
+keyword=restaurant, sentence=Yes, I have a garden in my backyard.  I love growing my own food.
+keyword=movie, sentence=I'm sure it was. I hope everything turned out well for you in the end.
+keyword=movie, sentence=No, I haven't seen it either. I know it's based on a novel by James Fenimore Cooper.
+keyword=restaurant, sentence=I love playing doubles. It is so much more fun to play against two other players.
+keyword=song, sentence=I sing a little bit of everything, but my favorite is classical music.  Do you like music?
+keyword=song, sentence=I do!  It's a great way to meet new people and learn about different topics.
+keyword=movie, sentence=I'm a big fan of action and adventure games. Do you have any favorites?
+keyword=movie, sentence=You are welcome. It was a pleasure to chat with you. Have a good day!
+keyword=song, sentence=That's good to hear. It's always nice to have a good relationship with your sibling.
+keyword=attraction, sentence=I wish I could speak more than one language. I've always wanted to travel the world.
+keyword=movie, sentence=I didn't want to make a scene out of it, but I did call the police.
+keyword=attraction, sentence=Thank you so much! I can't wait to see the beaches and the food!
+keyword=restaurant, sentence=I like to bake as well. I also like to play video games. What about you?
+keyword=song, sentence=I think I will. I just don't want her to think I'm lying to her.
+keyword=song, sentence=Yes, it does.  It was developed in the 1970s in New Orleans, Louisiana.
+keyword=song, sentence=No, I don't work at a factory, but I do have a job at a grocery store.
+keyword=song, sentence=Thank you, I hope so too. It's been a long time since I've seen him.
+keyword=song, sentence=I'm not much of a hunter, but I do enjoy singing and dancing.
+keyword=transportation, sentence=I have never been on a boat before. I have always wanted to go on a cruise.
+keyword=movie, sentence=I like documentaries as well. I also like to binge watch shows on Netflix.
+keyword=song, sentence=I like all kinds of music, but my favorite is jazz. What about you?
+keyword=song, sentence=Thank you so much, I hope the same for you and your spouse as well.
+keyword=movie, sentence=I do a lot of squats and deadlifting. Do you have any hobbies?
+keyword=song, sentence=I sure hope so. She was such a sweet dog. I don't know what I would do without her.
+keyword=attraction, sentence=Surfing is a lot of fun. I like to go to the beach and ride the waves.
+keyword=movie, sentence=I don't have a specific favorite, but I do love the multiplayer aspect of the game.
+keyword=song, sentence=I used to play a lot of Call of Duty, but I haven't played in a while.
+keyword=song, sentence=I have heard it is beautiful there.  It is also the only state that borders both the Pacific Ocean and the Atlantic Ocean.
+keyword=restaurant, sentence=I have never been fishing, but I would love to try kayaking sometime.
+keyword=song, sentence=Thank you, I appreciate it. It's been a rough couple of days, but it's getting better.
+keyword=song, sentence=It's a lot of fun, especially if you have a good group of friends to play with.
+keyword=restaurant, sentence=I think it would be cool to go to Mars and see if there are any life forms there.
+keyword=song, sentence=Me too. I don't know what I would have done if it was a real ghost.
+keyword=song, sentence=I like that it's a first-person shooter where you have to fight against other players.
+keyword=song, sentence=I compete in singing competitions as well. I have been singing since I was a child.
+keyword=restaurant, sentence=That makes sense. I don't think I could do it though. I love meat too much.
+keyword=attraction, sentence=Halloween is my favorite holiday. I love dressing up and going trick or treating.
+keyword=restaurant, sentence=Yes, I have a dog and a cat.  Do you like chickens?  How many do you have?
+keyword=movie, sentence=I'm sorry. I hope you can get it all sorted out. I'm sure it will be worth it in the end.
+keyword=song, sentence=I love to play video games and watch movies. What do you like to do in your spare time?
+keyword=restaurant, sentence=They are a little spicy, but I like them. They are usually served with lime juice and cinnamon.
+keyword=song, sentence=I'm in the US, so I'm not sure if it's legal in other places.
+keyword=song, sentence=Yes it is, it has a population of 8,537,673.
+keyword=restaurant, sentence=I'm not sure yet. I think I'll go with the pirate from Lion King.
+keyword=song, sentence=I usually listen to classic rock when I'm driving.  What kind do you listen to?
+keyword=movie, sentence=I don't really have much time for hobbies, but I do like to read.
+keyword=song, sentence=That's a good way to look at it. I'm sure she would be proud of you.
+keyword=restaurant, sentence=I play a lot of Call of Duty. It's one of my favorite games to play.
+keyword=song, sentence=I hope so too. Thank you for your kind words. It means a lot to me.
+keyword=song, sentence=I like all kinds of music, but my favorite is jazz. What about you?
+keyword=song, sentence=No, I am an only child. I wish I had a brother or sister to play with.
+keyword=hotel, sentence=I'm glad you were able to take care of them! I hate them so much!
+keyword=song, sentence=I am studying business administration. I want to own my own business someday.
+keyword=transportation, sentence=I have a Toyota Corolla.  It's a good car.  How long have you had it?
+keyword=transportation, sentence=Well, I'm not sure what the problem is exactly, but it's been making a lot of weird noises lately.
+keyword=song, sentence=That's awesome! It's crazy to think that Nintendo has been around since 1986.
+keyword=attraction, sentence=I prefer landscape paintings, but I'm not very good at painting people.
+keyword=song, sentence=Just for fun. I'm not very good at it, but it's fun to do.
+keyword=song, sentence=I spend a lot of time outdoors, hiking, fishing, etc. What about you?
+keyword=restaurant, sentence=I enjoy fishing as well. I also like to hike in the mountains.
+keyword=hotel, sentence=Early birds go to bed early and get up early. I'm a night owl.
+keyword=song, sentence=I've never heard of them. What kind of music do they play? I like all kinds of music.
+keyword=restaurant, sentence=It is an Italian restaurant.  We have been going there for years and it is one of my favorites.
+keyword=song, sentence=You are welcome. I know it is hard, but it will happen when you least expect it.
+keyword=song, sentence=I'm glad you can look at the positive side of things. I wish you the best of luck!
+keyword=attraction, sentence=I know exactly what you're talking about. I think I need to take a vacation soon.
+keyword=attraction, sentence=I love going to dog parks! I also like to take my dog to the beach.
+keyword=restaurant, sentence=I just drink it straight out of the can. I don't like the taste of it.
+keyword=song, sentence=I'm sorry to hear that. I have a brother, but we don't get to see each other very often.
+keyword=restaurant, sentence=It is a bar that specializes in cocktails. We are going to have a lot of fun.
+keyword=movie, sentence=I love stand up comedy as well. It's so much fun to watch them improvise.
+keyword=restaurant, sentence=I had a great time too. I went to the bar with my friends. It was fun.
+keyword=restaurant, sentence=That makes sense. I don't have any pets, but I do eat out a lot.
+keyword=attraction, sentence=I like to go to the park and play with my dogs.  I also like to read.  What about you?
+keyword=song, sentence=I've heard of that one. It's the world's largest non-governmental church.
+keyword=song, sentence=I like all kinds of music, but my favorite genre is jazz. How long have you been playing piano?
+keyword=song, sentence=No, I haven't read that one. I'll have to check it out sometime.
+keyword=restaurant, sentence=Yes, it's so crisp and juicy. It's hard to believe that apples were first cultivated in Mesoamerica.
+keyword=attraction, sentence=It really is. I love the way the sky looks when it's clear and clear.
+keyword=song, sentence=I also enjoy spending time with family and playing video games.  Do you have any favorite video games?
+keyword=restaurant, sentence=I don't, but I would love to have a pet chicken. They're so cute!
+keyword=song, sentence=Country music is okay, but I'm more of a rock and roll type of guy.
+keyword=attraction, sentence=I live near the Gulf of Mexico, so I surf there a lot. The waves are great.
+keyword=song, sentence=Yes, it is. I am grateful for the time I did have with him.
+keyword=song, sentence=I love spending time with family and friends. I also like to play games with my friends. What kind of games do you play?
+keyword=song, sentence=I'll be teaching math.  It's my favorite subject.  What do you do for a living?
+keyword=restaurant, sentence=Me too. I hate the heat and humidity. It makes me feel like I can't breathe.
+keyword=restaurant, sentence=I do! Summertime is my favorite time of year. It's the best time of the year for outdoor activities.
+keyword=restaurant, sentence=Oh wow, I didn't know that. The Lakers have been around since 1961.
+keyword=restaurant, sentence=That's true. I'm not sure if I could do it. I love meat too much.
+keyword=movie, sentence=I don't have a specific favorite, but they are all very talented and talented.
+keyword=song, sentence=I don't have a lot of time for hobbies since I work so much, but I do like to read.
+keyword=movie, sentence=I like to go to the gym and work out. I also like to read. How about you?
+keyword=movie, sentence=I don't have a favorite show, but I love the band A7ged SevenFold.
+keyword=song, sentence=I like all kinds of music, but my favorite band is Led Zeppelin.
+keyword=song, sentence=I do, but I don't get to see them as much as I'd like.
+keyword=movie, sentence=It is always worth it in the end. I wish you the best of luck in your future endeavors.
+keyword=restaurant, sentence=Thank you! We are going to a Mexican restaurant. I love spicy foods so I'm looking forward to it.
+keyword=song, sentence=I don't have a specific favorite, but I do like rock and roll. What's your favorite band?
+keyword=song, sentence=Thank you, I appreciate that. I'm sure I'll do just fine, but it's still nerve wracking.
+keyword=attraction, sentence=I think I'm ready for a vacation. I haven't been on one in a long time.
+keyword=restaurant, sentence=I love them too! They're such sweet dogs. They were bred to retrieve shot waterfowl.
+keyword=transportation, sentence=Yes, I agree. Cars have been around for a very long time. The first automobile was invented in 1903.
+keyword=song, sentence=I like the fact that I get to interact with kids all day. It's very rewarding.
+keyword=song, sentence=It is! It's also the most densely populated metropolitan area in the world!
+keyword=hotel, sentence=I am retired. I used to be a teacher, but now I am a stay at home mom.
+keyword=restaurant, sentence=I enjoy baking, but I'm not very good at it.  How about you?
+keyword=song, sentence=He's a German Shepherd. I love labs, they're so sweet.
+keyword=song, sentence=I'm so sorry to hear that. I wish you the best of luck in the future.
+keyword=song, sentence=I don't listen to much rock music, but I do listen to a lot of classical music.
+keyword=song, sentence=Yes, I agree. Some of them just aren't worth the time or effort.
+keyword=transportation, sentence=I work in a warehouse. It's not the most exciting job in the world, but it pays the bills.
+keyword=song, sentence=I really like the Call of Duty series.  It's one of my favorite video games of all time.
+keyword=song, sentence=I like hip hop dancing. It's so much fun to dance to the beat of my own music.
+keyword=song, sentence=I am sure you will be an excellent parent as well.  I have a son and a daughter and I love them both very much.
+keyword=song, sentence=Thank you so much, I hope so too. He's been with me through a lot.
+keyword=restaurant, sentence=Tennis has been around for a very long time. It originated in ancient Greece.
+keyword=song, sentence=It is a music festival that takes place in the United States. I have never been to one before.
+keyword=song, sentence=Yeah, it was released on October 29, 1997.  It's been a while since I've played it.
+keyword=transportation, sentence=I want a thoroughbred. I want to be able to train him to do tricks.
+keyword=song, sentence=I don't have much time for hobbies. I spend most of my time studying.
+keyword=attraction, sentence=I like to play video games and watch movies. What about you? What do you do for fun?
+keyword=transportation, sentence=Labradors are great dogs. They have a great temperament and are easy to train.
+keyword=attraction, sentence=I travel around the world for work. I've been all over Europe, Asia, and Africa.
+keyword=song, sentence=Thank you, I appreciate that. It's not so bad though, I'm used to it by now.
+keyword=song, sentence=That's a great name for a dog! I'm glad you were able to adopt him from a no-kill shelter!
+keyword=movie, sentence=I don't play any sports, but I like to watch them on TV. I like watching the World Series.
+keyword=song, sentence=I like a lot of different bands, but my favorite band is Pink Floyd.
+keyword=song, sentence=Yes, I have two older brothers and two younger sisters. We are very close.
+keyword=movie, sentence=Yes, they've been around for a very long time. They were the most widely abundant terrestrial carnivore in the world until the end of the Paleolithic era.
+keyword=song, sentence=I do listen to it a lot. I love how it incorporates electronic instruments and synthesizers.
+keyword=song, sentence=Thank you very much. I appreciate it. I hope you find something that you love as well.
+keyword=song, sentence=Thank you for your kind words. I'm trying to get over it, but it's hard.
+keyword=restaurant, sentence=It's a soup made with chicken broth and vegetables. It's really good.
+keyword=song, sentence=I do! I try to donate as much as I can to the local food pantry and homeless shelters.
+keyword=song, sentence=Just for myself, I enjoy it a lot. What do you like to do for fun?
+keyword=song, sentence=She really was.  She was one of the most influential dancers of all time.
+keyword=song, sentence=Some people just don't have any respect for other people's belongings. It makes me so mad.
+keyword=song, sentence=I have an apartment, but I wish I could have a house with a yard for my cat to roam around in.
+keyword=restaurant, sentence=I know, I'm trying to eat healthier, but sometimes I just can't help it.
+keyword=song, sentence=Yes, I have two older brothers and two younger sisters. I am the youngest.
+keyword=song, sentence=That makes sense, since RGB stands for red-green-blue, which is a combination of red and blue.
+keyword=song, sentence=I don't have a lot of time for hobbies. I spend most of my time working.
+keyword=song, sentence=I am not good either, but it is so much fun to just sing and have fun.
+keyword=movie, sentence=I'm a big fan of action and adventure games. What kind of movies do you like?
+keyword=restaurant, sentence=Yes, it is. I try to eat healthier, but it is so hard sometimes.
+keyword=restaurant, sentence=I love cheeseburgers! I like mine with bacon, lettuce, tomato, and onion.
+keyword=hotel, sentence=Thank you so much for the kind words. I hope you have a great rest of your day!
+keyword=song, sentence=I think I will! I think it would be a good way to get out of my comfort zone.
+keyword=movie, sentence=I went to the police station and they told me I had to pay for the damages.
+keyword=song, sentence=It's been so long since I played it, I don't even know what the newest one is.
+keyword=song, sentence=I don't have much spare time. I'm a full-time student and work part-time.
+keyword=song, sentence=I work in a call center. It's not the most glamorous job in the world, but it pays the bills.
+keyword=song, sentence=It really is. I don't know what I would do if I didn't have money.
+keyword=restaurant, sentence=That's right, it's been around for a long time. It's the second-largest retailer by revenue in the U.S. after Walmart.
+keyword=song, sentence=Thank you! I was so relieved when I realized it was just a little bit of water.
+keyword=restaurant, sentence=Not yet, but I'm sure it will go well. I think she's a keeper.
+keyword=movie, sentence=I like sci-fi and fantasy as well. I also like fantasy novels.
+keyword=song, sentence=I used to play a ton of video games when I was younger, but now I mostly just watch them on TV.
+keyword=attraction, sentence=I love going to the beach and swimming. What kind of dog do you have?
+keyword=transportation, sentence=No, he didn't have insurance. It was a total wreck. I had to get a new car.
+keyword=movie, sentence=Thank you, I appreciate it. I'm sure it will be worth it in the end.
+keyword=restaurant, sentence=I have been doing it for about 2 years now. It is a lot of work, but I enjoy it.
+keyword=song, sentence=Thank you.  I am feeling much better now, but it was a long time ago.
+keyword=movie, sentence=My favorite author is Stephen King. He has written so many great books. What about you?
+keyword=attraction, sentence=Video games are fun, but I'm more of an outdoorsy person. I like to hike and camp.
+keyword=restaurant, sentence=Yes, I love steak.  I like mine well done, but my husband likes it well-done.
+keyword=song, sentence=I would recommend The Shining. It is one of my favorites. It was made into a movie as well.
+keyword=transportation, sentence=I don't have a specific favorite, but I do like the fact that they can fly.
+keyword=song, sentence=I want to be an orthodontist. I've always wanted to be one.
+keyword=attraction, sentence=I love theme parks, but I don't get to go as much as I'd like because I work at a bookstore.
+keyword=attraction, sentence=I like going to Panama City Beach. It is the most populous city in the state of Florida.
+keyword=song, sentence=I know, I just have to find the time and money for it. I miss it so much.
+keyword=song, sentence=Yes, it is. It's also the largest department store chain by revenue in the U.S.
+keyword=restaurant, sentence=Yes, it is. It's also great because it dries quickly and is water soluble.
+keyword=transportation, sentence=I like to play video games. What do you like to do when you're not running?
+keyword=hotel, sentence=I don't think so. I work at a hotel so I see a lot of those.
+keyword=movie, sentence=Yes, it does. But it is worth it in the end. Thank you for the kind words.
+keyword=song, sentence=His name is Roscoe. He's a rescue and he's the sweetest dog ever.
+keyword=song, sentence=I'm not sure, but I do know that it is the most sparsely populated U.S. state.
+keyword=song, sentence=I don't have any pets at the moment. I used to have a cat when I was younger.
+keyword=transportation, sentence=I don't run marathons, but I do long distance running. It takes me about a week.
+keyword=song, sentence=Thank you so much. I appreciate that. I know it will work out, I just have to be patient.
+keyword=transportation, sentence=I work in an office. It's not the most exciting job in the world but it pays the bills.
+keyword=song, sentence=I'm not sure yet. I'm still in school, so I don't really know what I want to do yet.
+keyword=song, sentence=Yes, it is. I try to remind myself of all the good times I had with him.
+keyword=movie, sentence=I used to play monopoly a lot when I was a kid. I haven't played in a while though.
+keyword=transportation, sentence=I drive a Toyota Corolla. It's a good car, but it doesn't get me anywhere fast.
+keyword=song, sentence=Oh wow, I didn't know that! I love that song, it's one of my favorites.
+keyword=song, sentence=You're welcome! I hope you have a great time in Seattle, it's such a great city!
+keyword=song, sentence=I do.  I work in the ER, so I see all kinds of people.
+keyword=restaurant, sentence=I love to bake as well. I'm not very good at it, but I enjoy trying new recipes.
+keyword=song, sentence=I know, I just don't know what to do. I don't want to be alone.
+keyword=movie, sentence=She writes a lot of fantasy novels. I haven't read any of them though.
+keyword=movie, sentence=I'm a financial analyst. It's a lot of work, but it's rewarding.
+keyword=movie, sentence=I didn't have a good time at the movie theater, so I went to another one instead.
+keyword=attraction, sentence=Yes, we do.  He loves the outdoors, so we take him a lot.
+keyword=song, sentence=No, I don't. I wish I did, though. I miss them a lot.
+keyword=song, sentence=I don't really have a favorite author. I do like his short stories and novellas.
+keyword=song, sentence=I'm not sure, but they were bred to herd livestock and herd cattle.
+keyword=restaurant, sentence=I agree.  I love pizza.  It's one of the most popular foods in the world.
+keyword=song, sentence=I don't have a lot of time for hobbies. I spend most of my time studying.
+keyword=restaurant, sentence=Yes, they have been around for a very long time. They are the most widely abundant terrestrial carnivore.
+keyword=transportation, sentence=I want to get a Toyota Corolla. It's the cheapest car you can buy.
+keyword=hotel, sentence=You are very welcome. I wish you and your family the best of luck in the future.
+keyword=restaurant, sentence=Lobster is delicious! I love seafood in general, but lobster is my favorite.
+keyword=transportation, sentence=I have a Chevrolet Suburban.  I love it.
+keyword=restaurant, sentence=I'm sorry to hear that. Cats are great for companionship and for their ability to hunt vermin.
+keyword=song, sentence=Yes, we do. He's a great companion and he helps me with my homework.
+keyword=restaurant, sentence=That's true. I just don't have the money for it. I'd rather spend my money on a salad.
+keyword=song, sentence=I would like to teach kindergarten. I think it would be a lot of fun.
+keyword=attraction, sentence=I don't think so. I'm just a simple guy who likes to hike up mountains.
+keyword=hotel, sentence=It was the conjuring. I did survive, but I had nightmares the rest of the night.
+keyword=movie, sentence=No, I did not want to make a scene out of it and make her feel bad.
+keyword=song, sentence=No, I don't, but I wish I did. I would love to have a dog. What kind of dog do you have?
+keyword=attraction, sentence=I'm a big fan of first person shooters. What's your favorite game to play?
+keyword=movie, sentence=I bet it is!  I bet you have some great stories to tell at the end of the day.
+keyword=song, sentence=That sounds like a lot of fun. I might have to give it a try sometime.
+keyword=song, sentence=Yes, I have a dog and a cat. I love them both very much. What about you?
+keyword=restaurant, sentence=I really like Burger King. They have the best fries and milkshakes.
+keyword=song, sentence=I like collecting them.  I have a few that I have collected over the years.
+keyword=movie, sentence=I love sci fi as well. I read a lot of Stephen King when I was younger.
+keyword=song, sentence=I like to play video games. I've been playing a lot of Call of Duty lately. What about you?
+keyword=restaurant, sentence=No, it's a medium sized dog. They were bred for herding livestock.
+keyword=restaurant, sentence=Chocolate cake is one of my favorites!  I also enjoy baking cookies and brownies.
+keyword=movie, sentence=I'm a big fan of action and adventure games. What kind of movies do you like?
+keyword=attraction, sentence=Museums are great. I like to travel to different countries to see different cultures.
+keyword=song, sentence=I have a labrador retriever. He's a handful but I love him.
+keyword=movie, sentence=You are welcome. It was a pleasure to chat with you. Have a good day!
+keyword=restaurant, sentence=It was steak and potatoes.  I love grilling too.  It was so good.
+keyword=attraction, sentence=I don't go often, but when I do, I like to go to the skate park.
+keyword=movie, sentence=I'm a big fan of action and adventure games. What kind of movies do you like?
+keyword=restaurant, sentence=I like to hang out with my friends and play video games. What about you, what do you enjoy?
+keyword=movie, sentence=I love going to the movie theater.  It's a great way to spend time with friends and family.
+keyword=attraction, sentence=I love going to the museum as well. It's a great way to learn about different cultures.
+keyword=restaurant, sentence=GTA san andreas was released for the ps3 and xbox 360 in 2001
+keyword=song, sentence=Blues rock is a great genre. My favorite band is Led Zeppelin.
+keyword=movie, sentence=I like action movies and comedies.  What about you?  Do you have a favorite movie?
+keyword=attraction, sentence=I like to go to the beach and listen to the waves crash on the shore.
+keyword=restaurant, sentence=I have, but they don't seem to care. I don't know what to do.
+keyword=song, sentence=I like playing pool.  I like that it's a game that can be played with or without a cue.
+keyword=attraction, sentence=I like to go to the beach and swim. I also like to read. What about you?
+keyword=song, sentence=I play a lot of Call of Duty. It's one of my favorite games of all time.
+keyword=movie, sentence=That sounds like a lot of fun. I would love to be on a show like that.
+keyword=song, sentence=I'd like a Labrador Retriever or a German Shepherd.
+keyword=song, sentence=I like all kinds of music. Rock is a great genre. What is your favorite band?
+keyword=restaurant, sentence=I really like Dr. Pepper.  It's my favorite carbonated soft drink.
+keyword=song, sentence=I bet they are! I would love to have a dog one day, but my apartment doesn't allow them.
+keyword=movie, sentence=I love scobby doo! My favorite show is the simpsons. What about you?
+keyword=movie, sentence=No, I didn't get a chance to take any pictures.  I was too busy fighting in the Army.
+keyword=song, sentence=I listen to a little bit of everything, but my favorite genre is jazz. What about you?
+keyword=song, sentence=Thank you for the kind words. I'll try not to let it get to me too much.
+keyword=song, sentence=Thank you so much, that means a lot to me. I'm sure I'll be fine.
+keyword=transportation, sentence=I would love to drive a Ford Mustang. I have always wanted to drive one.
+keyword=movie, sentence=Science fiction is one of my favorites as well! I also like fantasy novels.
+keyword=movie, sentence=I like to spend time with my family. I love spending time with them. How about you?
+keyword=song, sentence=That's true. I'll try to keep that in mind. Thank you for the advice.
+keyword=song, sentence=You're welcome. I know how you feel. I moved away from my hometown a few years ago.
+keyword=song, sentence=I'm sorry to hear that. I'm sure you miss them a lot, too.
+keyword=movie, sentence=I play a lot of Call of Duty. It's my favorite game of all time.
+keyword=song, sentence=I know what you mean. It's hard to find the time when you have so many responsibilities.
+keyword=song, sentence=Yes, I like to play soccer. It's one of the most popular sports in the world.
+keyword=transportation, sentence=I don't have any hobbies other than horseback riding.  Do you ride competitively?
+keyword=restaurant, sentence=Yes, it is.  I love breakfast.  It's the first meal I eat in the morning.
+keyword=hotel, sentence=I hate it too, but I have to do it to stay in shape for my daughter.
+keyword=song, sentence=I enjoy playing video games as well.  I also like to read.  Do you play any video games?
+keyword=restaurant, sentence=I like all kinds of fruits and vegetables, but my favorite is probably watermelon.
+keyword=hotel, sentence=I'm glad to hear that. I hope you have a great rest of your evening.
+keyword=restaurant, sentence=I thought so too, but it is actually the 8th most densely populated.
+keyword=song, sentence=I'm glad to hear she's doing better. I'm sure you miss her a lot.
+keyword=movie, sentence=I know what you mean. It's a big commitment, but I think it would be worth it in the end.
+keyword=movie, sentence=I love it too! It's one of my favorite shows. I watch it all the time.
+keyword=restaurant, sentence=No, but we went fishing and caught some fish. It was a lot of fun.
+keyword=song, sentence=I'm not sure of the exact size, but I do know that it covers approximately 71% of the Earth's surface.
+keyword=song, sentence=I've thought about it, but I don't think I'll ever be able to get over this.
+keyword=movie, sentence=It took me a while, but it was worth it in the end. I love exercising.
+keyword=song, sentence=I am sorry to hear that. I have two older brothers and two younger sisters.
+keyword=movie, sentence=Fantasy and Sci-Fi are great. My favorite book series is the Harry Potter series.
+keyword=song, sentence=Video games are fun, but I'm more of a bookworm.  I love to read.
+keyword=restaurant, sentence=I'm a graphic designer. It's a fun job, but it can be stressful at times.
+keyword=restaurant, sentence=I'll have to check them out. I love steak so I'm sure I'll like them.
+keyword=song, sentence=No, I never did find out. I think he ran away because he was so scared.
+keyword=restaurant, sentence=Yes, I was supposed to have a slice of it, but I didn't eat it.
+keyword=song, sentence=I work in a call center. It's not the most glamorous job in the world, but it pays the bills.
+keyword=movie, sentence=I don't really have a favorite movie. I just like going to see movies in theaters.
+keyword=song, sentence=I try my best to be a good example for my students. I want to make sure they have a good future.
+keyword=restaurant, sentence=Chocolate chip is my favorite! I like to make chocolate chip muffins as well.
+keyword=movie, sentence=I have never seen any of the Star Wars movies. I have heard they are good though.
+keyword=attraction, sentence=My favorite movie of all time is The Godfather Part II. Have you seen it?
+keyword=song, sentence=It has been a couple of years now. I still think about her all the time.
+keyword=restaurant, sentence=Yes, pickling is a method of preserving food for long periods of time.
+keyword=song, sentence=I like Imagine Dragons too. I like their song "Radioactive"
+keyword=song, sentence=He sure was. He was also the lead singer of the Rolling Stones.
+keyword=movie, sentence=I like World of Warcraft. It's an online role-playing game developed by Blizzard Entertainment.
+keyword=hotel, sentence=No, I didn't get mad at her. I just cleaned it up and gave her a bath.
+keyword=attraction, sentence=I have a labrador retriever. He's a handful, but I love him.
+keyword=restaurant, sentence=I hope so. I would love a dog, but I am allergic to them.
+keyword=movie, sentence=I'll have to check it out. I'm always looking for new comedies to watch.
+keyword=song, sentence=I like those bands too. I also like the Beatles and the Rolling Stones.
+keyword=attraction, sentence=I'm a graphic designer for a small company.  I love it here.  What about you?
+keyword=song, sentence=I hope so. I don't know if I'll ever be able to do that again.
+keyword=attraction, sentence=I love going to the zoo and seeing all the animals. I also like to read.
+keyword=hotel, sentence=Me too. I would have been so mad if I had to go to jail over it.
+keyword=song, sentence=I don't know, I guess we just have different personalities. I think it's because I'm the youngest.
+keyword=song, sentence=You're welcome! I'm sure he'll be happy to have you in his life.
+keyword=restaurant, sentence=My favorite season is summer. It's the best time of the year. What about you?
+keyword=song, sentence=Thank you very much, I appreciate it. I hope everything works out for you as well.
+keyword=song, sentence=He was a Labrador Retriever. He was the best dog I've ever had.
+keyword=restaurant, sentence=That sounds really good. I live in the city so I don't have a lot of time to cook.
+keyword=attraction, sentence=I don't have much time for hobbies.  I spend most of my time at work.
+keyword=restaurant, sentence=I like monopoly as well. My friends and I play it all the time.
+keyword=movie, sentence=I really like action movies and comedies. What about you? Do you like any movies?
+keyword=song, sentence=That's too bad. I hope you find a way to make time for things you enjoy.
+keyword=movie, sentence=I don't play many video games, but I do like to read. I like fantasy novels.
+keyword=song, sentence=I'm glad to hear that.  It's always nice to hear about a place that's doing well.
+keyword=transportation, sentence=I love going to the beach.  It's so relaxing.  What about you?
+keyword=song, sentence=Country music is my favorite too! I make a lot of videos about my dog, he's my best friend.
+keyword=song, sentence=Yes, it's a great way to get them to communicate and share information and ideas.
+keyword=song, sentence=That's great. I've been thinking about joining a gym, but I don't know where to start.
+keyword=attraction, sentence=We just sat on the sand and listened to the waves crash on the shore.
+keyword=song, sentence=I hope so. It's been so long since I've spoken to her. I miss her so much.
+keyword=song, sentence=I played a little bit of soccer, but I wasn't very good at it.
+keyword=restaurant, sentence=I respect that. I'm not sure I could do it. I love meat too much.
+keyword=song, sentence=I'm sure you'll find the right person one day. I wish you the best of luck.
+keyword=hotel, sentence=Thank you, I appreciate that. I'm trying to stay positive, but it's hard.
+keyword=attraction, sentence=I don't play many video games, but I do play a lot of board games.
+keyword=hotel, sentence=Thank you very much, I will try to take care of myself as best as I can.
+keyword=transportation, sentence=I have a Chevrolet Suburban.  I love it.  It is the best car I have ever owned.
+keyword=song, sentence=I'm not sure if I should tell her or not. I feel like I'm going to lose her if I tell her the truth.
+keyword=song, sentence=I don't have a specific favorite. I just like to play them all. What's your favorite?
+keyword=song, sentence=I agree. It's a great way to share information, ideas, and ideas.
+keyword=song, sentence=I'm not a big fan of country music. It's not my cup of tea. What kind of music do you like?
+keyword=song, sentence=I am the youngest, but my older brother is older than me by a few years.
+keyword=movie, sentence=No, it's a television series. It's about a dog and his family.
+keyword=song, sentence=Labradors are great dogs. I had one growing up and he was a great dog.
+keyword=song, sentence=I know, but I still play it every once in a while with my friends.
+keyword=movie, sentence=You're welcome. I'm sure you'll find something. I know it's hard, but it'll be worth it in the end.
+keyword=restaurant, sentence=Yes, I love to cook and bake. I also like to read. What about you?
+keyword=song, sentence=I work in an office, but I would love to be a musician. What kind of music do you write?
+keyword=song, sentence=My favorite song of theirs is Push the Line. It was released in 1994.
+keyword=song, sentence=Yes, Quake is a first person shooter that was developed by id Software.
+keyword=song, sentence=I like Kanye West. He is an American rapper, singer, and songwriter.
+keyword=song, sentence=I'm sure you will. You seem to have a good head on your shoulders.
+keyword=attraction, sentence=I like to go to the park and play with my dog. I also like to read.
+keyword=attraction, sentence=I've never been out of the country. I'd love to go to Europe one day.
+keyword=movie, sentence=Yes, it was released in 2007 for the PlayStation 3 and Xbox 360.
+keyword=attraction, sentence=I love it! It's the largest art museum in the world, and the largest in the United States!
+keyword=restaurant, sentence=I have a dog and a cat.  Cats are great for companionship and hunting vermin.
+keyword=restaurant, sentence=That's right! They're also the world's largest supplier of athletic apparel.
+keyword=restaurant, sentence=Yes, we will be grilling out and having a BBQ.  I can't wait!
+keyword=song, sentence=I'm an accountant, so I deal with a lot of paperwork. How long have you been in the call center?
+keyword=song, sentence=It's so hard to lose someone you've known for so long. It's like losing a family member.
+keyword=song, sentence=Thank you so much, I really appreciate it. I hope you have a great day as well.
+keyword=restaurant, sentence=Yes, I love to use herbs and spices to enhance my meals.
+keyword=transportation, sentence=I work at a grocery store. What kind of cars do you like working on?
+keyword=movie, sentence=My favorite game is Super Smash Brothers Brawl. It was released in 2006 for the Nintendo 64.
+keyword=song, sentence=I don't listen to a lot of music, but my favorite band is Led Zeppelin.
+keyword=attraction, sentence=I love the mountains! I used to live in Nevada, but now I live in Tennessee.
+keyword=song, sentence=That's true. I guess I just need to get used to it, I guess.
+keyword=restaurant, sentence=Yes, I love it with veggies and meats. I also like it without cheese.
+keyword=song, sentence=I do like country music, but I don't listen to it as much as I used to.
+keyword=song, sentence=I don't really have a favorite song, but I do know that they are an American rock band formed in Los Angeles in 1962.
+keyword=restaurant, sentence=Breakfast is the most important meal of the day for me, so I eat a lot of it.
+keyword=song, sentence=I haven't, but it's on my bucket list. I hear it's gorgeous.
+keyword=song, sentence=I like all kinds of music, but my favorite band of all time is Led Zeppelin.
+keyword=song, sentence=That's what I've heard. I just don't know what to do with my degree.
+keyword=restaurant, sentence=I'm trying to do the same, but I'm having a hard time sticking to it.
+keyword=song, sentence=I'm sorry to hear that. My parents are still married but they don't like each other very much.
+keyword=restaurant, sentence=Thank you, I appreciate it. I'm trying to focus on fishing to keep my mind off of it.
+keyword=song, sentence=I agree. It's sad that there are so many stray and abandoned animals in the world.
+keyword=restaurant, sentence=Junk food is not good for you. I try to avoid it as much as I can.
+keyword=song, sentence=His name was Oreo. He was a rescue dog from a shelter.
+keyword=attraction, sentence=It's a beautiful place.  It's the highest mountain in the contiguous United States.
+keyword=movie, sentence=Video games are fun, but I'm more of a reader. I love fantasy novels.
+keyword=song, sentence=I like the rolling stones as well. They were formed in London in 1962.
+keyword=hotel, sentence=No, but I would love to go.  It is one of the most visited tourist destinations in the world.
+keyword=restaurant, sentence=I've been a vegetarian for about 5 years now.  It was hard at first, but you get used to it.
+keyword=song, sentence=I like all kinds of music, but my favorite genre is rock. What about you?
+keyword=song, sentence=Yes, I have been working as a paralegal for a couple of years now.
+keyword=song, sentence=My favorite Madonna song is "California Gurls" which came out in 1989.
+keyword=attraction, sentence=I know that it has been inhabited by humans since prehistoric times.
+keyword=song, sentence=I do! I like to knit and crochet. I also like to read. What about you?
+keyword=attraction, sentence=I like to play with my dog and cat at the park. I also like to take them to the beach.
+keyword=song, sentence=He really is, he is considered one of if not the greatest players of all time.
+keyword=song, sentence=I'm not sure, but they were bred to herd livestock and herd cattle.
+keyword=transportation, sentence=I'm fine, thank you for asking. I was in a car accident a few years ago.
+keyword=song, sentence=I like to hang out with my friends and play video games. What about you? Do you have any hobbies?
+keyword=attraction, sentence=I love them too. I like to read them to my 2 sons when we go to the museum.
+keyword=song, sentence=He is the sweetest dog I've ever met. I love him so much. He was the first dog I ever adopted.
+keyword=movie, sentence=I don't really have a favorite, but I do like the ones where they do trick shows.
+keyword=song, sentence=That's a great goal.  I'm sure you'll be a great nurse!
+keyword=transportation, sentence=I'm sorry to hear that. I lost my toe in a car accident when I was younger.
+keyword=movie, sentence=I don't really have a favorite horror story, but I do love a good thriller.
+keyword=song, sentence=I work in an office. It's pretty boring, but it pays the bills. How about you?
+keyword=restaurant, sentence=I don't think it's ethical to eat meat. I love meat too much to give it up.
+keyword=movie, sentence=I really like the Harry Potter series. It's a series of fantasy novels written by J.K. Rowling.
+keyword=song, sentence=You're welcome. I hope it gets better for you. I know it can be hard.
+keyword=song, sentence=That's good to hear. I hope I can find something that works for me as well.
+keyword=movie, sentence=I do not have a favorite book, but I do know that the first book of the series was published in 1997.
+keyword=restaurant, sentence=I'm not sure I could do it either. I think it would be hard to give up eggs and dairy products.
+keyword=song, sentence=Yes, that's true. It's a lot more fun to play on a grass court than on a hard court.
+keyword=song, sentence=They are all in their 20s and 30s. It's been a long time since I've seen them.
+keyword=song, sentence=It will get better. I know it's hard right now, but you'll be okay.
+keyword=song, sentence=Thank you for your kind words. It means a lot to me to know that there are still good people out there.
+keyword=song, sentence=Yes, it is. I miss her so much. She was the best dog I've ever had.
+keyword=song, sentence=I don't have any pets at the moment, but I used to have a cat.
+keyword=song, sentence=I like to hang out with friends and play video games. What about you? Do you have any hobbies?
+keyword=movie, sentence=I don't really have a favourite cartoon, but I do like to watch cartoons with my kids.
+keyword=song, sentence=No, I'm not a teacher yet, but I hope to be one someday.
+keyword=song, sentence=It's about a young man who is trying to figure out what he wants to do with his life.
+keyword=restaurant, sentence=I like fishing too, but I don't get to do it as much as I'd like.
+keyword=attraction, sentence=I love swimming too! I also love the beaches in the Caribbean.
+keyword=song, sentence=That's cool. I'm not much of a gamer myself, but I've heard good things about CoD.
+keyword=song, sentence=I don't really have a favorite band, but Green Day is one of my favorites too!
+keyword=song, sentence=I believe in you, you can do anything you set your mind too. I wish you the best of luck!
+keyword=song, sentence=I'm sure they are. I just don't have the time or space for one right now.
+keyword=song, sentence=I'm sorry to hear that. I hope you can overcome your shyness one day.
+keyword=song, sentence=You're very welcome! I wish you the best of luck in your future endeavors!
+keyword=attraction, sentence=Video games are fun, but I'm more of an outdoorsy person. I like to hike and camp.
+keyword=movie, sentence=You're welcome. I wish you the best of luck in your endeavors.
+keyword=song, sentence=I do not, but I would love to have a dog. They are great companions.
+keyword=song, sentence=Veterinarians are very important.  I'm sure you'll be a great one.
+keyword=song, sentence=Yes, it's an action-adventure game. It was released in 2007.
+keyword=restaurant, sentence=Yes, I have a brother and sister, but we do not get along very well.
+keyword=hotel, sentence=You're welcome. I hope you have a great rest of your evening. Take care.
+keyword=attraction, sentence=I like to draw landscapes. I have a huge tree in my backyard.
+keyword=transportation, sentence=I'm looking at a Toyota Corolla. It's been a while since I've had one.
+keyword=transportation, sentence=It's been a few years. He was a stray that I found on the side of the road.
+keyword=movie, sentence=I should, but I don't have the time. I watch a lot of TV, and that takes up most of my time.
+keyword=song, sentence=I like a lot of different kinds of music, but country is one of my favorites.
+keyword=movie, sentence=It's about a young wizard and his adventures in Hogwarts.
+keyword=song, sentence=I'm sorry to hear you don't have a great relationship with yours. I hope things get better for you.
+keyword=song, sentence=I'm still in school, so I don't have a job yet. But I hope to find one soon.
+keyword=attraction, sentence=I am not sure yet, but I am sure I will find something interesting.  I have never been to a museum before.
+keyword=attraction, sentence=Racing games are really fun. I like racing simulators the best, like Fortnite.
+keyword=song, sentence=Thank you for the kind words. I appreciate it. I hope you have a great day!
+keyword=movie, sentence=It was, but it was worth it in the end. I felt so bad about it.
+keyword=restaurant, sentence=I hope so too. I am excited to see what they will do this year.
+keyword=movie, sentence=I'm a big fan of first person shooters. What's your favorite genre of games?
+keyword=movie, sentence=I'm a big fan of action and adventure games. What kind of movies do you like?
+keyword=song, sentence=I do, but it's just not the same. I don't know what I'd do without her.
+keyword=attraction, sentence=I do, I love to cook and bake. I also like to read. What about you?
+keyword=song, sentence=That's good to know. I'll have to check it out when I'm in the states.
+keyword=movie, sentence=My favorite color is blue. What is your favorite flower? Mine is the daffodil.
+keyword=restaurant, sentence=Thank you, I hope so too. It's been a long time since I've dealt with something like that.
+keyword=attraction, sentence=Pandas are so cute! I love them too. My favorite animal is the kangaroo.
+keyword=hotel, sentence=That's a good idea. We are planning to go to Hawaii for our honeymoon.
+keyword=song, sentence=I know! It's crazy how long they've been around. They were founded in 1904.
+keyword=song, sentence=I hope so. I've been practicing my songs since I was 5 so I know I can do it.
+keyword=transportation, sentence=I would love to try it, but the thought of falling out of a plane terrifies me.
+keyword=restaurant, sentence=Yes, it's all about the money. I'm a cashier, so I just stock the shelves.
+keyword=movie, sentence=I like to go to the theater and watch movies. I also like going to concerts.
+keyword=song, sentence=I've never heard of them. I'll have to look them up. I like a lot of different music.
+keyword=movie, sentence=I have never seen one in person either, but I have seen videos of them on the internet.
+keyword=movie, sentence=I am a big fan of science fiction as well. Do you have a favorite author?
+keyword=restaurant, sentence=I love eating out as well. I love trying new restaurants. What is your favorite place to eat?
+keyword=restaurant, sentence=Wow, that's a lot of flavors. I'm not a big fan of steak.
+keyword=transportation, sentence=I didn't have the money to fly with him. I had to cancel my flight.
+keyword=song, sentence=Yeah, he was raised by a family of musicians. He started rapping at a very young age.
+keyword=attraction, sentence=I enjoy painting as well, but I'm not very good at it. I'm more of a sculptor.
+keyword=movie, sentence=I spend a lot of time outdoors. I love to hike and camp. What kind of video games do you like?
+keyword=song, sentence=I used to play a lot of Call of Duty, but I haven't played in a while.
+keyword=restaurant, sentence=I love to cook as well.  What is your favorite type of food to cook?
+keyword=hotel, sentence=I love it! It's one of the most popular meats in the world, so I'm sure I'm not the only one.
+keyword=song, sentence=Oh wow, that's a lot of people. I wonder if they still practice it today.
+keyword=song, sentence=Yes, I have two older brothers and two younger sisters. We get along pretty well.
+keyword=song, sentence=Yes, I love music. I listen to it all the time. What kind of music do you like?
+keyword=restaurant, sentence=I know, but I don't think I could do it. I love meat too much.
+keyword=song, sentence=I would love to be a nurse that deals with the care of the elderly.
+keyword=restaurant, sentence=I love them too! They're such sweet dogs. They were bred to retrieve shot waterfowl.
+keyword=movie, sentence=I love it! I've been watching it since it first aired on Comedy Central in 1997.
+keyword=song, sentence=Yes, they were founded in 1961 and have won seven NBA championships.
+keyword=movie, sentence=No, I didn't call him back. I was too busy being an actor to call back.
+keyword=transportation, sentence=I hope so too. It's been a long time since I've had a new car.
+keyword=movie, sentence=I don't play many video games, but I do like to read.  I love fantasy novels.
+keyword=song, sentence=I used to play COD all the time. I haven't played in a while though.
+keyword=movie, sentence=Yes, he is a great character. He is the main character of the fantasy series "A Song of Ice and Fire" by George R.R. Martin.
+keyword=song, sentence=That's great! I'm sure you have to be very smart to be able to do that.
+keyword=movie, sentence=It's a great movie. It's set in the American South during the Civil War.
+keyword=song, sentence=I don't really have a favourite song, but I do know that he is an American singer, songwriter, and record producer.
+keyword=song, sentence=Thank you, I hope the same for you. I'm sure you'll do just fine.
+keyword=song, sentence=I do! I have a dog and a cat. I love them both so much.
+keyword=song, sentence=I work in a call center. It's not the most glamorous job in the world but it pays the bills.
+keyword=song, sentence=I've never been to one of their concerts, but I've heard they're great!
+keyword=attraction, sentence=We went to the beach. It was nice to get away from the city for a bit.
+keyword=song, sentence=I don't think so. She seems pretty normal to me. I just don't like her music.
+keyword=song, sentence=I think you're right. I think I'll do that. Thank you for the advice.
+keyword=song, sentence=I know, I just don't know what to do. I feel like I can't trust her anymore.
+keyword=song, sentence=It's a jazz fusion band. It's really fun to jam out to.
+keyword=song, sentence=I have two boys. They're a handful, but I love them. What about you?
+keyword=song, sentence=I think I would like to produce music. I think it would be a lot of fun.
+keyword=song, sentence=We went on a cruise to the Bahamas.  It was amazing!
+keyword=restaurant, sentence=I bake cakes, cookies, cupcakes, brownies, you name it.
+keyword=attraction, sentence=I live on an ocean. The lake is only a few miles from my house.
+keyword=song, sentence=That's great! I bet you did great. I hope you do well in your exams!
+keyword=song, sentence=Thank you for the kind words. I am sure I will do fine as well. It is just nerve wracking.
+keyword=song, sentence=I like all kinds of music, but my favorite band is the Beatles, what about you?
+keyword=hotel, sentence=Thank you, I try to stay on top of things so I don't get in trouble.
+keyword=song, sentence=I know, I can't wait to see her in person. I hope it goes well!
+keyword=restaurant, sentence=No, I'm not. I just have bad allergies to a lot of things.
+keyword=movie, sentence=It worked out in the end, but it was a bit of a hassle.
+keyword=song, sentence=It's a pop punk band.  They're pretty good.  What kind of music do you like?
+keyword=song, sentence=I have heard that they are one of the best teams in the National Basketball Association.
+keyword=song, sentence=Mystery is a great genre. My favorite book is 1984. Have you read it?
+keyword=attraction, sentence=I'm a big fan of RPGs. I love the open world aspect of them.
+keyword=song, sentence=I play a lot of Call of Duty. It's one of my favorite video games.
+keyword=attraction, sentence=We are going to a beach in Florida. I can't wait to see all the wildlife!
+keyword=movie, sentence=I do it all on my own. I have been doing it for a few years now.
+keyword=song, sentence=I don't know if I'll ever be able to get used to it.
+keyword=song, sentence=I'm sure it will be! I hope you get the job and it goes well for you!
+keyword=movie, sentence=Science fiction is one of my favorite genres. I also like fantasy and mystery.
+keyword=attraction, sentence=I've never been, but it's on my bucket list. I hear the beaches are gorgeous.
+keyword=movie, sentence=Fantasy is a great genre. My favorite is sci-fi. What's yours?
+keyword=attraction, sentence=I love going for walks in the park. It's so peaceful and relaxing.
+keyword=restaurant, sentence=I have never been fishing before, but I would like to try it someday.
+keyword=restaurant, sentence=I love fishing! It's one of the most relaxing activities I've ever done.
+keyword=movie, sentence=I love good burger too! I think my favorite movie of all time is Ferris Bueller's Day Office.
+keyword=song, sentence=His name is Dexter. He's a rescue dog. He was a stray.
+keyword=hotel, sentence=You too! I hope you have a great rest of your day as well! Take care!
+keyword=movie, sentence=I'm still in school, but I'm hoping to get a job in finance.
+keyword=song, sentence=Video games are a great way to pass the time. I like playing video games as well.
+keyword=movie, sentence=That's right! He was a fictional character created by Robert Kirkman.
+keyword=movie, sentence=It's a first person shooter video game developed and published by Activision Entertainment.
+keyword=song, sentence=Thank you for your kind words. It means a lot to me that you care about me.
+keyword=restaurant, sentence=I do too! It's so much fun to dress up and see all the costumes people come up with.
+keyword=movie, sentence=My favorite author is Stephen King. He has written so many great books. Have you read any of his?
+keyword=attraction, sentence=I like to spend time with my family and friends.  How about you?  Where have you traveled to?
+keyword=song, sentence=Yes, she had a lot. She was a great woman and I miss her dearly.
+keyword=movie, sentence=Cosplay is a form of cosplay where people dress up as fictional characters.
+keyword=attraction, sentence=I play a lot of Call of Duty. It's one of my favorite video games.
+keyword=song, sentence=I work in the financial sector as well. I work for a financial institution.
+keyword=song, sentence=I am so mad at him right now. I can't believe he would do something like that.
+keyword=song, sentence=I don't play much soccer but I do like to watch it. I like soccer because it's fast-paced and physical.
+keyword=movie, sentence=Yes, it's a hard habit to break, but it's worth it in the end.
+keyword=movie, sentence=I love to read as well. I am a big fan of Stephen King. Have you read any of his books?
+keyword=attraction, sentence=Video games are fun. I like to go to the beach and surf.
+keyword=movie, sentence=I'm a big fan of action and adventure games. What kind of movies do you like?
+keyword=movie, sentence=It took me about a month. I am so glad I did it though. It was so worth it.
+keyword=song, sentence=Thank you so much, I really appreciate it. I'm trying to keep my head up.
+keyword=song, sentence=I don't have any kids, but I do enjoy listening to rock music with my kids.
+keyword=restaurant, sentence=I'm allergic to peanuts, shellfish, and tree pollen.
+keyword=restaurant, sentence=I try to eat healthy, but sometimes I just want to sleep in and eat junk food.
+keyword=hotel, sentence=Thank you, I hope so too. It's been a long time since I've been to the doctor.
+keyword=restaurant, sentence=I think so too.  There are a lot of legal issues that come with getting married such as alimony, child support, and child custody.
+keyword=movie, sentence=It's about a group of superheroes who save the world from a nuclear disaster.
+keyword=restaurant, sentence=I love tea! It's one of the most popular beverages in the world.
+keyword=song, sentence=Thank you very much. I appreciate it. I hope you have a great day.
+keyword=restaurant, sentence=Vegetarianism is the practice of abstaining from the consumption of meat
+keyword=song, sentence=You should get one. They are a lot of work, but they are so worth it.
+keyword=movie, sentence=It's fiction. I'm not sure if I'll ever be able to publish it though.
+keyword=song, sentence=Thank you, I hope so too. She's been my best friend for a long time.
+keyword=attraction, sentence=Video games are fun, but I'm more of an outdoorsy person. I like to hike and camp.
+keyword=attraction, sentence=I enjoy playing video games and listening to music. I also like to cook. What about you?
+keyword=song, sentence=No, I don't play any instruments. I've always wanted to learn, though.
+keyword=movie, sentence=Yes, I love to read as well. What is your favorite genre of books?
+keyword=song, sentence=No, I don't. I just don't see the point in it right now.
+keyword=restaurant, sentence=I like watching the Superbowl every year. It is the most watched sport in the world.
+keyword=song, sentence=I am going to Puerto Rico. I have never been there before.
+keyword=movie, sentence=I think I'm going to get a Labrador Retriever.
+keyword=restaurant, sentence=I love Italian food, especially pasta. What's your favorite type of meat?
+keyword=song, sentence=They remind me of my grandmother. She always had roses in her garden.
+keyword=song, sentence=Yes it is!  It is also the best-selling pickup in the United States.
+keyword=attraction, sentence=I play a lot of Call of Duty. It's one of my favorite games. Do you like video games?
+keyword=movie, sentence=I act in a lot of comedy movies. I'm a comedian so I like to make people laugh.
+keyword=song, sentence=I agree, it's great exercise and it's fun to play with other people as well.
+keyword=song, sentence=I have never heard of that one. I will have to check it out. I love board games.
+keyword=attraction, sentence=My favorite movie of all time is The Godfather Part II. Have you seen it?
+keyword=song, sentence=I like playing video games as well, but I don't have a lot of free time.
+keyword=attraction, sentence=I don't have much time for hobbies.  I spend most of my time with my grandchildren.
+keyword=song, sentence=I hope so too. It's been a long time since I've been able to see my family.
+keyword=song, sentence=Yes, it is.  It has a population of 8,537,673.
+keyword=song, sentence=Thank you so much, I appreciate it. I hope you find a good job soon too!
+keyword=song, sentence=I really like the Call of Duty series. It's one of my favorites. What about you?
+keyword=restaurant, sentence=I had it with lettuce, tomato, bacon, onion, and pickles.
+keyword=hotel, sentence=I agree, it's a good way to stay informed on current events and current events
+keyword=song, sentence=I play acoustic guitar. It's a lot of fun. Do you have any other instruments?
+keyword=song, sentence=I know, I would be so scared to be lost in the middle of the desert!
+keyword=restaurant, sentence=I love deserts too! I love ice cream, but my favorite is cookies and cream. How about you?
+keyword=song, sentence=I wish you the best of luck. I'm sure you'll find a new job soon.
+keyword=movie, sentence=That's cool. I love taking pictures of nature. It's one of my favorite things to do.
+keyword=restaurant, sentence=I love apples too, but I'm allergic to them, so I can't eat them.
+keyword=song, sentence=I like all kinds of music, but my favorite band is the Beatles. What about you?
+keyword=restaurant, sentence=It was a chocolate cake with vanilla cream cheese frosting. It was so good!
+keyword=song, sentence=I like all kinds of music, but my favorite genre is rock. What about you?
+keyword=transportation, sentence=Yes, I had to buy a new car.  I am a teacher, so I needed a new one.
+keyword=movie, sentence=He sure is. His debut studio album, "Speak Now" debuted at number one in the U.S.
+keyword=restaurant, sentence=I thought so too, but then I looked it up and it turns out it is actually made of rice flour.
+keyword=restaurant, sentence=I love chocolate chip cookies. Brownies can be made with so many different ingredients.
+keyword=song, sentence=I played soccer growing up, but I haven't played in a while. It's been a long time.
+keyword=restaurant, sentence=I like my steak flame broiled. It's so juicy and tender.
+keyword=song, sentence=She really was! She was such a talented singer and actress as well.
+keyword=song, sentence=It's okay, I'm over it now. I just wish I could go back and do it all over again.
+keyword=attraction, sentence=I like to go to the beach and listen to the waves crash on the shore.
+keyword=song, sentence=I love music! I listen to it all the time. What kind of music do you like?
+keyword=restaurant, sentence=I don't think I could do that. I love my steak too much to give it up.
+keyword=song, sentence=I feel you. It's hard to see someone you care about hoarding things.
+keyword=song, sentence=Thank you so much for the encouragement. I know I can do it, I just have to keep my head up.
+keyword=song, sentence=Thank you so much for your kind words. I will keep my fingers crossed for him!
+keyword=song, sentence=I don't think so. It's been so long since I've spoke to him.
+keyword=song, sentence=I don't think so. I think it is because it is a perennial flower.
+keyword=song, sentence=I just like to spend time with my family. I don't get to see them as much as I'd like.
+keyword=attraction, sentence=That sounds like a lot of fun. I haven't been to a national park in a long time.
+keyword=song, sentence=Yes, she's a pop singer. She was born and raised in New York City.
+keyword=attraction, sentence=My favorite place is in the mountains near my house. There's so much to see and do there.
+keyword=song, sentence=I like all kinds of music, but my favorite band is Led Zeppelin.
+keyword=attraction, sentence=I really like the Smithsonian Museum of Natural History. It is one of the largest in the world.
+keyword=song, sentence=I don't know much about his music, but I do know that he was born in 1994.
+keyword=song, sentence=I hope so. I miss him a lot, but I know he's in a better place.
+keyword=hotel, sentence=Yes, I do enjoy it. It is very relaxing to me. I have been knitting since I was a little girl.
+keyword=song, sentence=I enjoy playing video games as well. I like to spend time with my family and friends.
+keyword=restaurant, sentence=I work at a local Italian restaurant. What do you do for a living?
+keyword=song, sentence=They are a pop punk band. They have been around for a long time. They were formed in 1999.
+keyword=hotel, sentence=I wake up at 5:30 every morning.  I hate waking up so early.
+keyword=song, sentence=Yes, it is. I'm hoping to get a promotion soon. It's been a long time since I've gotten a raise.
+keyword=movie, sentence=I don't really have a favorite author, but I do enjoy reading non-fiction.
+keyword=restaurant, sentence=I agree as well. I think that the minimum wage should be raised at a higher level so that people can afford to live comfortably.
+keyword=transportation, sentence=I was flying from Miami to San Diego. It was a long flight.
+keyword=attraction, sentence=I love going to the beach.  It is one of my favorite things to do.
+keyword=song, sentence=Thank you for the kind words.  It's hard, but I know it's for the best.
+keyword=hotel, sentence=I am so sorry that happened. I hope you are able to get it cleaned up.
+keyword=restaurant, sentence=Yes, I have a dog and a cat. I love them so much. What kind of dogs do you have?
+keyword=song, sentence=I do! I'm a big fan of NASCAR. What's your favorite racing game?
+keyword=movie, sentence=I like science fiction and fantasy as well. Do you have any favorite authors?
+keyword=song, sentence=Oh wow, I didn't know that. She's a great singer and songwriter.
+keyword=song, sentence=Yes, I have two older brothers and two younger sisters. We are all very close.
+keyword=restaurant, sentence=Meat is good, but I'm not a fan of pineapple on pizza.
+keyword=attraction, sentence=I like to play video games and listen to music. What about you? What kind of hobbies do you have?
+keyword=attraction, sentence=I have heard of that place. It is the world's largest art museum in the world.
+keyword=hotel, sentence=I don't think I will, but I'm going to have to go to the doctor.
+keyword=song, sentence=I used to play a lot of Call of Duty back in the day, but I haven't played in a while. What kind of games do you like?
+keyword=song, sentence=No, not really. We just don't have the same interests as we did when we were younger.
+keyword=movie, sentence=Fantasy and Sci-Fi are my favorites as well! What is yours?
+keyword=restaurant, sentence=I really enjoy cooking Italian dishes, especially pasta dishes. What about you?
+keyword=restaurant, sentence=Yes, it's been around for a very long time. Restaurants have been around since the Middle Ages.
+keyword=restaurant, sentence=No, I'm not a vegan. I love steak too much to give it up.
+keyword=song, sentence=My favorite book is The Catcher in the Rye. It's a classic. What's yours?
+keyword=song, sentence=Thank you so much, I really appreciate it. I'm sure I'll be fine, but it's still scary.
+keyword=restaurant, sentence=Yes, banana is a very versatile fruit. It can be eaten as a snack or as a meal.
+keyword=song, sentence=I'm sorry to hear that. I know how you feel. I've been there before.
+keyword=restaurant, sentence=I love spaghetti and meatballs. I also love lasagna.
+keyword=attraction, sentence=Yes, I live right on the Gulf of Mexico. It's a great place to visit.
+keyword=song, sentence=I don't really have a lot of free time. I work a lot and go to school.
+keyword=restaurant, sentence=Yes, they do. They are also the largest private company in the world by revenue and market capitalization.
+keyword=hotel, sentence=You are very welcome. I wish you and your sister the best of luck in the future.
+keyword=restaurant, sentence=Weighted bars. I want to get stronger so I can lift more weights.
+keyword=song, sentence=Thank you very much, it means a lot to me that you care so much about me.
+keyword=song, sentence=I don't do much for fun these days. I spend most of my time studying.
+keyword=restaurant, sentence=We are having steak and potatoes. It is going to be a nice evening.
+keyword=hotel, sentence=I work in a call center.  It pays the bills, but it's not what I want to do for the rest of my life.
+keyword=song, sentence=Thank you so much, that means a lot to me. I'm sure I'll be fine.
+keyword=movie, sentence=I haven't seen that one yet, I'll have to check it out. I like all kinds of movies.
+keyword=song, sentence=Thank you so much. I appreciate it. I hope you have a great day.
+keyword=hotel, sentence=Thank you, I appreciate it. I'm trying to stay positive, but it's hard sometimes.
+keyword=song, sentence=That is true, they can see so well in the dark. They also have a great sense of smell.
+keyword=movie, sentence=I don't really have a favorite book, I just like reading. What kind of movies do you like?
+keyword=movie, sentence=I'm a big fan of action and adventure games. Do you have a favorite movie?
+keyword=song, sentence=I used to play the piano when I was younger, but I haven't picked it up in a while.
+keyword=song, sentence=I like to play video games. What about you? What kind of hobbies do you have?
+keyword=restaurant, sentence=I like to bake cakes with chocolate frosting. It's my favorite.
+keyword=song, sentence=No, I don't grow many roses, but I do have a few hybrid roses.
